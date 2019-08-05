@@ -1,0 +1,11 @@
+/home/dmkrebsbach/CodingDojo/CSharp/IronNinja/bin/Debug/netcoreapp2.2/IronNinja.deps.json
+/home/dmkrebsbach/CodingDojo/CSharp/IronNinja/bin/Debug/netcoreapp2.2/IronNinja.runtimeconfig.json
+/home/dmkrebsbach/CodingDojo/CSharp/IronNinja/bin/Debug/netcoreapp2.2/IronNinja.runtimeconfig.dev.json
+/home/dmkrebsbach/CodingDojo/CSharp/IronNinja/bin/Debug/netcoreapp2.2/IronNinja.dll
+/home/dmkrebsbach/CodingDojo/CSharp/IronNinja/bin/Debug/netcoreapp2.2/IronNinja.pdb
+/home/dmkrebsbach/CodingDojo/CSharp/IronNinja/obj/Debug/netcoreapp2.2/IronNinja.csprojAssemblyReference.cache
+/home/dmkrebsbach/CodingDojo/CSharp/IronNinja/obj/Debug/netcoreapp2.2/IronNinja.csproj.CoreCompileInputs.cache
+/home/dmkrebsbach/CodingDojo/CSharp/IronNinja/obj/Debug/netcoreapp2.2/IronNinja.AssemblyInfoInputs.cache
+/home/dmkrebsbach/CodingDojo/CSharp/IronNinja/obj/Debug/netcoreapp2.2/IronNinja.AssemblyInfo.cs
+/home/dmkrebsbach/CodingDojo/CSharp/IronNinja/obj/Debug/netcoreapp2.2/IronNinja.dll
+/home/dmkrebsbach/CodingDojo/CSharp/IronNinja/obj/Debug/netcoreapp2.2/IronNinja.pdb
